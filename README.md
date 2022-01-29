@@ -25,6 +25,9 @@ For the individual and stereo calibration of the cameras, the defined functions 
 
 ![image](https://user-images.githubusercontent.com/87040483/151662604-ada98399-39b5-4bb5-b671-ae952be4205b.png)
 
+![image](https://user-images.githubusercontent.com/87040483/151663913-ff5c39c9-8e11-49af-992a-42b941b74bbc.png)
+
+
 ### 	Digital image processing 
 
 ![image](https://user-images.githubusercontent.com/87040483/151663596-cdc1426e-df86-4103-85e3-81acccf25865.png)
